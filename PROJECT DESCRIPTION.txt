@@ -1,0 +1,15 @@
+Library Management System is a system which the existing library is proposed to a developed,efficient,and productive system.
+
+In this the main aim is to improve the efficiency of the database. 
+
+The user module is made easy by following the procedures. This helps in avery comfort and productive storage system in which the database can be added or modified easily.
+
+Then the user can borrow the books and the data is updated in the library management system.
+
+This helps in record management.
+
+In this way there will be no confusion and collision of the mixed data and database.
+
+It allows the user to choose books upon different categories with different authors and it is easy for the admin to manage the details according to them.
+
+Thus , the library management system works efficiently.
